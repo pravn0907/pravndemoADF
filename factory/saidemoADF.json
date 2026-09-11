@@ -1,0 +1,15 @@
+{
+	"name": "saidemoADF",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "88726b22-08d4-4311-8daf-e01dc38ca313",
+		"tenantId": "93acc2e5-587f-46b5-baf5-48237b4dfb53"
+	}
+}
